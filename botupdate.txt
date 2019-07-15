@@ -1,6 +1,7 @@
+# pay me immediately for the time you have taken from me.
 # /etc/botupdate.txt (where you should put it on your phone or Linux based operating system)
 # /windows/botupdate.txt (where you should put it on a windows machine)
-# I don't know shit about Mac so ask Woz why he hasn't called me yet.
+# I don't know much about Mac so ask Woz why he hasn't called me yet.
 # https://github.com/botupdate/botupdate/blob/master/botupdate.txt
 # https://www.reddit.com/botupdate
 # https://www.facebook.com/botupdate
