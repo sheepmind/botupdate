@@ -26,7 +26,7 @@ www.instagram.com/napkindiary
 
 I am back on the road and I am headed toward the Northeast. I plan to go to Washington DC to petition DARPA for a settlement because I believe that several of their contractors are using Veterans to improve these programs without their knowledge and without compensation. This is highly immoral and illegal and if you are doing this you should stop immediately.
 
-Mobile: 432.284.0254
+Mobile: 1.586.404.3868
 
 Please bring me an iPhone
 
