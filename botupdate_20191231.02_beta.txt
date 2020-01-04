@@ -9,7 +9,7 @@ Hypnosis from hacked devices is known to have been used to hinder the writing of
 Title: “The Bot Update”
 Location: https://www.github.com/botupdate/botupdate/
 Date: 20191231
-Version: 20191231.01_botupdate
+Version: 20191231.02_botupdate
 Filename: botupdate.[txt][doc][docx][pdf]
 TYPE: UTF-8 ENGLISH, American, 21st Century
 Section A  Identifies the source and location of this information and my Identity.
