@@ -4,11 +4,11 @@ Every claim in this document and technology described is supported by the author
 Print this file and leave it in a conspicuous place, take notes, send any updates or incorrect information at the git; or, ask me any questions:
 botupdate@protonmail.com; engineeredsentience@gmail.com;
 215.500.6494
-Hypnosis from hacked devices is known to have been used to hinder the writing of this document and to hide the events that necessitated the creation of this document; which, is still a work in progress as of today 20200104
+Hypnosis from hacked devices is known to have been used to hinder the writing of this document and to hide the events that necessitated the creation of this document; which, is still a work in progress as of today 20200128
 Title: “The Bot Update”
 Location: https://www.github.com/botupdate/botupdate/
-Date: 20200107
-Version: 20200107.01_botupdate
+Date: 20200128
+Version: 20200128.01_botupdate
 Filename: botupdate.[txt][doc][docx][pdf]
 TYPE: UTF-8 ENGLISH, American, 21st Century
 Section A: Identifies the source and location of this information and my Identity.
