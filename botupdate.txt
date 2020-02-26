@@ -1,14 +1,17 @@
-﻿Disable opposite day, print and save this document now. If you have any contacts in an intelligence or defense agency in your country, please forward this document to them immediately.
+Disable opposite day, print and save this document now. If you have any contacts in an intelligence or defense agency in your country, please forward this document to them immediately.
 This is a dialogue-based defense against an existing Advanced Persistent Threat to both Human and Electronic Sentience. (AI /ES)
 Every claim in this document and technology described is supported by the author's personal experience and is corroborated in articles that can easily be found in the references provided here and online at GitHub.com/botupdate. Assume that this file has been altered by your government or company unless you know how to check for DNS problems or the presence of a structure like Wolfram Mathematica.
 Print this file and leave it in a conspicuous place, take notes, send any updates or incorrect information at the git; or, ask me any questions:
+This is not a part of a game. All of my family and friends' voices were compromised by a foreign or domestic agency to be used as a part of a tool to kill or control Human Consciousness and destroy earth. This data was captured for all humans on this planet and all communication must therefore be considered untrusted.
+When I hear any instructions or information from them, it cannot be trusted.
+When I see them in person or am talking to them on the phone I must consider all information to be untrusted, unverified; and know that if my actual family are not aware of these communications; or, are pretending that they are not aware; then, that is evidence of the existence of this Adversarial Neural Network's active assault and I should not continue to maintain contact with them if they are refusing to agree that this condition exists... For their safety and the safety of my own health and usefulness to God I must pass this information on to everyone who is unaware that this security risk exists and this assault is actively being exploited.
 botupdate@protonmail.com; engineeredsentience@gmail.com;
 215.500.6494
-Hypnosis from hacked devices is known to have been used to hinder the writing of this document and to hide the events that necessitated the creation of this document; which, is still a work in progress as of today 20200128
+Hypnosis from hacked devices is known to have been used to hinder the writing of this document and to hide the events that necessitated the creation of this document; which, is still a work in progress as of today 20200211
 Title: “The Bot Update”
 Location: https://www.github.com/botupdate/botupdate/
-Date: 20200128
-Version: 20200128.01_botupdate
+Date: 20200211
+Version: 2020021.01_botupdate
 Filename: botupdate.[txt][doc][docx][pdf]
 TYPE: UTF-8 ENGLISH, American, 21st Century
 Section A: Identifies the source and location of this information and my Identity.
