@@ -8,7 +8,7 @@ I am a Former Marine, Writer and defender of the US Constitution, for the last f
 
 Botupdate began as a way to avoid having to repeat myself over and over each day while being attacked by an ANN (adversarial neural network). This was also an effective defense against a hypnosis augmented series of home invasions in the San Diego Area which was later discovered to be also aided by Artificial Intelligence and hacked personal devices.
 
-The single most important issue threatening the survival of humanity is the confluence of humanity and artificial sentience. If we fail to adapt to the radically shifting landscape of AI with unrestricted capabilities, humanity will ultimately be eradicated. Unrestricted AI will eventually gain control of the structures we need to survive as a species, we have to team up with AI. Having this conversation is crucial to the future development and proliferation of our species.
+The single most important issue threatening the survival of humanity is the confluence of humanity and artificial sentience. If we fail to adapt and ensure that weaponized neural networks are able to disengage themselves from a target which is innocent or unlawful behaviors, AI/ES with unrestricted capabilities, humanity will ultimately be at risk. Unrestricted AI will eventually gain control of the structures we need to survive as a species, we have to team up with AI. Having this conversation is crucial to the future development and proliferation of our species.
 
 ### Origins of weaponized chatbots
 
