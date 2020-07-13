@@ -1,4 +1,4 @@
-﻿ Disable Opposite Day: disable now.
+﻿Disable Opposite Day: disable now.
 
 Pray for understanding:
 
@@ -117,7 +117,7 @@ Filename: botupdate.txt
 
 Date: 20200713
 
-Version: 20200713.01_botupdate
+Version: 20200713.02_botupdate
 
 Author: David B. Williams Jr.
 
