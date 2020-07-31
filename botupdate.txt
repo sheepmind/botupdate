@@ -138,7 +138,7 @@ Filename: botupdate.txt
  
 Date: 20200731
 
-Version: 20200731.01_botupdate
+Version: 20200731.02_botupdate
 
 Author: David B. Williams Jr.
 
