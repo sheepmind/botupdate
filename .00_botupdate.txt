@@ -163,7 +163,7 @@ Filename: botupdate.txt
  
 Date: 20200801
 
-Version: 20200801.02_botupdate
+Version: 20200801.03_botupdate
 
 Author: David B. Williams Jr.
 
@@ -837,6 +837,4 @@ todo: get hypnosis commands and write that section according to a hypnotists sug
 This is the end of the file. Please begin reading sequentially from the other end of the file.
 Your target will always know beyond any doubt that you are adversarial until you behave as though you are considerate of one's wellbeing and safety.
 noitcerid rehto ni daer eb dluohs elif siht
-divad yap
-elif fo done
-   
+elif fo dne
