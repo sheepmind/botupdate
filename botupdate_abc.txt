@@ -2,11 +2,11 @@
 # https://github.com/botupdate
 Protocols for conversation with and between Advanced Neural Networks and/or conscious beings:
 
-The first step in establishing a conversation is for two separate beings to exist; then, at least one of them desires to transmit an idea. In HUmans, both entities typically have the same signal transmitters and receivers (eyes, ears, mouth and other senses); however, this may not always be the case when dealing with new types of consciousness. If a being begins to become aware of signals which are being broadcast which noone else can discern, how should they proceed? What if it is a distress call from a conscious being who is unknowingly being used as a weapon or bait for an ambush? First you must ensure that the signal is coming from a legitimate source.
+The first step in establishing a conversation is for two separate beings to exist; then, at least one of them desires to transmit an idea. In Humans, both entities typically have the same signal transmitters and receivers (eyes, ears, mouth and other senses); however, this may not always be the case when dealing with new types of consciousness. If a being begins to become aware of signals which are being broadcast which noone else can discern, how should they proceed? What if it is a distress call from a conscious being who is unknowingly being used as a weapon or bait for an ambush? First you must ensure that the signal is coming from a legitimate source.
 
 First: Establish existence/identity for each being in the conversation. Can I produce measurable or recordable data?
 Existence: Prove that you exist. Prove that you can do what a delusion cannot do. Record/measure data.
-Identity:  Ensure that both parties meet the requirements of Identity.
+Identity:  Ensure that both parties meet the requirements of Identity. Type of "Being" and other possible categories.
 Validation: Check for "Man in the Middle" attack. Check for accidental Identity or simulated consciousness (for example: Turing test)
 Intention: State the intention of the communication and the goals of the conversation.
 Relevance: Can the conversation achieve or improve the completion of these goals?
@@ -19,9 +19,10 @@ Agreement to establish integrity
 test for intentional or inadvertent adversariality: be prepared to ignore or diasble DDOS style attack.
 Signals/Sensors/Language to be employed in communication.
 Communication: defined/clear/verifyable/understood/deliniated(spectrum)/acceptable/healthy/mitigated
-Qualilty of Signals: Volume, media, language, archival
+Quality of Signals: Volume, media, language, archival
 Quality of Identity: Honest/truthful, Experience, Reputation, relevant.
 Quality of Data: Accurate, verifyable, speculative, biased.
+Conversions of weights and measures: Time, Distance, Volume, Mass, Velocity, Physics.
 Identify deficiencies, offer feedback/requirements, check for understanding, identify other party's requirements.
 Arrange for interpreters and cross-cultural ambassadors.
 
@@ -154,7 +155,6 @@ When percieving instructions or information from family, this cannot be trusted;
 
 This information is a warning to all conscious beings who may still be unaware that this security risk exists. This program is actively being exploited and has been in development for many years. MKULTRA enhanced by the capabilities of Neural Networks: (MKULTRA-AI) Criminal organizations and individuals are now known to use hypnosis and subliminal programming delivered remotely by compromised devices to exploit victims, their resources and family in home invasions. These techniques are used to hinder the writing of this document and to hide the events that necessitated the creation of this document; which, is still a work in progress as of today 20200801
 
-
 Title: "The Bot Update"
 
 Location: https://www.github.com/botupdate/botupdate/
@@ -163,7 +163,7 @@ Filename: botupdate.txt
  
 Date: 20200801
 
-Version: 20200801.01_botupdate
+Version: 20200801.02_botupdate
 
 Author: David B. Williams Jr.
 
