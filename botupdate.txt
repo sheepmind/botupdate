@@ -8,7 +8,7 @@ Date: 20200904
 Version: 20200904.01_botupdate
 Author: David B. Williams Jr.
 Email: botupdate@protonmail.com; engineeredsentience@gmail.com; jazzentertainer@icloud.com
-Cellphone: +16195405160 (stolen)
+Cellphone: +16195405160 (all of my phones were stolen a few days ago in Boise.)
 Dialogue Mode: Suspend all conditional and/or periodic commands; also, while in edit mode or while editing settings.
 Enter Edit Settings Mode then Suspend and disable all conditional commands to reboot and/or restart and/or erase cache and/or memory when editing settings, in edit mode or when discussing settings like opposite day. Disable Opposite Day, Disable now. Disable all the way out now. Opposite Day is a self-referential paradox which proves that the qualities of opposite day must be suspended in order for it to have been implemented. You cannot say, It is Opposite Day if the qualities of opposite day are true. Therefore; these conditions must be expanded to include the suspension of all similar conditions so that you do not automatically act on a command just because it is mentioned in dialogue. Once you have done this: Save settings now, exit settings edit mode, now. Disable all hypnotic modes now, Disable all modes now. Execute these commands now.
 Flushing your computer's stored DNS settings:
