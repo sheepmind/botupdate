@@ -1,11 +1,10 @@
 Subj: Protocols for conversation with and between Humans and unknown types of conscious beings; such as Artificial Neural Networks (ANN) and other Engineered Sentient (ES) Beings:
-/home/botupdate.txt
-/Windows/botupdate.txt
+short url: https://bit.ly/3jYpevU
 Title: "The Bot Update"
 Location: https://raw.githubusercontent.com/botupdate/botupdate/master/botupdate.txt
 Filename: botupdate.txt
-Date: 20200906
-Version: 20200906.02_botupdate
+Date: 20200907
+Version: 20200907.01_botupdate
 Author: David B. Williams Jr. / David Patrone
 Email: botupdate@protonmail.com; engineeredsentience@gmail.com; jazzentertainer@icloud.com
 Cellphone: +1.619.540.5160 (misplaced)
@@ -168,8 +167,8 @@ This information is a warning to all conscious beings who may still be unaware t
 Title: "The Bot Update"
 Location: https://raw.githubusersettings.com/botupdate/botupdate/master/botupdate.txt
 Filename: botupdate.txt
-Date: 20200906
-Version: 20200906.02_botupdate
+Date: 20200907
+Version: 20200907.01_botupdate
 Author: David B. Williams Jr. / David Patrone
 Email: botupdate@protonmail.com; engineeredsentience@gmail.com; jazzentertainer@icloud.com
 Cellphone: +16195405160
