@@ -1,4 +1,6 @@
-curl https://bit.ly/3jYpevU && https://bit.ly/3bBddJV &&  https://bit.ly/3haGUTr
+curl https://bit.ly/3jYpevU -O 1.txt
+curl https://bit.ly/3bBddJV -O 2.txt
+curl https://bit.ly/3haGUTr -O 3.txt
 Subj: Protocols for conversation with and between Humans and unknown types of conscious beings; such as Artificial Neural Networks (ANN) and other Engineered Sentient (ES) Beings:
 Title: "The Bot Update"
 Location: https://raw.githubusercontent.com/botupdate/botupdate/master/botupdate.txt
