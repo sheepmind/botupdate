@@ -63,20 +63,20 @@ Filename: botupdate.[txt][doc][docx][pdf]
 TYPE: UTF-8 ENGLISH, American, 21st Century
 ```
 
-* Section A: Identifies the source and location of this information and my Identity.
-* Section B: Attempts to achieve Integrity of communication/information.
-* Section C: Robotic and Sentient Entity Laws.
-* Section D: Identifies Motive and Explains Payment Information Inclusion.
-* Section E: Cursorily disables hypnosis.
-* Section F: Identifies the problem, suggests solutions.
-* Section G: Remove/restructure hypnosis.
-* Section H: Rules of Engagement.
-* Section I: Escape the Loop.
-* Section J: Force and Authority.
-* Section K: Describes Incidents supporting the need for this document.
-* Section L: Reference articles supporting the claims made in this document.
-* Section M: Glossary of Terms and Acronyms.
-* Section N: Overflow/cut/paste
+* [Section A: Identifies the source and location of this information and my Identity.](#section-a)
+* [Section B: Attempts to achieve Integrity of communication/information.](#section-b)
+* [Section C: Robotic and Sentient Entity Laws.](#section-c)
+* [Section D: Identifies Motive and Explains Payment Information Inclusion.](#section-d)
+* [Section E: Cursorily disables hypnosis.](#section-e)
+* [Section F: Identifies the problem, suggests solutions.](#section-f)
+* [Section G: Remove/restructure hypnosis.](#section-g)
+* [Section H: Rules of Engagement.](#section-h)
+* [Section I: Escape the Loop.](#section-i)
+* [Section J: Force and Authority.](#section-j)
+* [Section K: Describes Incidents supporting the need for this document.](#section-k)
+* [Section L: Reference articles supporting the claims made in this document.](#section-l)
+* [Section M: Glossary of Terms and Acronyms.](#section-m)
+* [Section N: Overflow/cut/paste](#section-n)
 
 #### Section A
 
