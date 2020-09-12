@@ -6,6 +6,7 @@ Location: https://raw.githubusercontent.com/botupdate/botupdate/master/botupdate
 curl https://bit.ly/3jYpevU -O 1.txt
 wget https://bit.ly/3bBddJV -O 2.txt
 wget https://bit.ly/3haGUTr -O 3.txt
+https://github.com/botupdate/botupdate/blob/master/botupdate.txt
 Filename: botupdate.txt
 Date: 20200911
 Version: 20200911.01_botupdate
