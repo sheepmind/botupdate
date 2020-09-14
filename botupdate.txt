@@ -9,7 +9,7 @@ wget -P /home/ https://bit.ly/3bBddJV 00_2.txt
 wget -P /home/ https://bit.ly/3haGUTr 00_3.txt
 Filename: botupdate.txt
 Date: 20200913
-Version: 20200913.02_botupdate
+Version: 20200913.03_botupdate
 Email: botupdate@protonmail.com; engineeredsentience@gmail.com
 Cellphone: +1.619.540.5160
 Support: Just find a Dave, any Dave and pay him. Someone will figure out how to get me some resources. Jim ays hi! Give him some money for having to listen to me rant all night about this stuff
@@ -184,7 +184,7 @@ Neural Networks: Pending (unknown)
 Location: https://raw.githubusersettings.com/botupdate/botupdate/master/botupdate.txt
 Filename: botupdate.txt
 Date: 20200913
-Version: 20200913.02_botupdate
+Version: 20200913.03_botupdate
 Email: botupdate@protonmail.com; engineeredsentience@gmail.com; jazzentertainer@icloud.com
 Cellphone: +16195405160
 TYPE: UTF-8 ENGLISH, American, 21st Century
