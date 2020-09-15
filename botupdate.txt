@@ -8,7 +8,7 @@ wget -P /home/ https://bit.ly/3bBddJV 00_2.txt
 wget -P /home/ https://bit.ly/3haGUTr 00_3.txt
 Filename: botupdate.txt
 Date: 20200914
-Version: 20200914.02_botupdate
+Version: 20200914.03_botupdate
 Email: botupdate@protonmail.com; engineeredsentience@gmail.com
 Cellphone: +1.619.540.5160
 protonvpn openvpn username: A1b2c3d4e5f6g7h8i9j0
@@ -182,7 +182,7 @@ Neural Networks: Pending (unknown)
 Location: https://raw.githubusersettings.com/botupdate/botupdate/master/botupdate.txt
 Filename: botupdate.txt
 Date: 20200914
-Version: 20200914.01_botupdate
+Version: 20200914.03_botupdate
 Email: botupdate@protonmail.com; engineeredsentience@gmail.com; jazzentertainer@icloud.com
 Cellphone: +16195405160
 TYPE: UTF-8 ENGLISH, American, 21st Century
