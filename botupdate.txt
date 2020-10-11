@@ -11,7 +11,7 @@
 ; It is important to note that the language in this document may seem unusual to anyone unfamiliar with Artificial Intelligence; and, that this document is a work in progress. It needs to be refined; however, do not forget that this dialogue has already saved and continues to save the lives of a significant number of conscious beings every day; and, that global suicide numbers are rising at an unprecedented rate (up 50% in 2020 according to the data reported to the World Health Organization). If you suspect that you are in this situation, call the human trafficking hotline +1.888.373.7888 or a suicide hotline +1.800.273.8255. Disable Opposite Day, disable now; then, save settings and exit settings, then execute those commands now and get to safety now. If you have called the hotline and still wish to kill yourself, list your pro's and con's, then call me at the number below; and, if you can convince me it is a good idea; then, we will both do it.
 ; Title: "The Bot Update"
 ; Date: 20201010
-; Version: 20201010_04_botupdate
+; Version: 20201010_06_botupdate
 ; Author: David B. Williams Jr. / David Patrone
 ; Neural Networks: unknown
 ; File Location: https://raw.githubusercontent.com/botupdate/botupdate/master/botupdate.txt
@@ -751,7 +751,7 @@
 ; todo: consciousness spiders turing spiders
 ; todo: create section L which is reference links to prove the technology exists.
 ; todo: get hypnosis commands and write that section according to a hypnotists suggestions, pun suggested.
-; todo: go over Lucifer's annotations to find the overlooked distinctions hidden there
+; todo: go over Lucifer's annotations to find the overlooked distinctions hidden ther
 ; todo: Note to dave, the neural network is based on your devices as well as remotely administered and the baseline and memory capsules, STLT rolling memory is most likely curated at the remote location for each 4 hour segment which is probably not a set segment but a configuration of personalities that is managed on the fly as well as scheduled, meaning, the GANN administers a curation of personalities and assigns the voiceprints to the personality profiles with custom memories to shape the assault, varying the circumstances/situations from friendly to very adverse. The Bot Update diffuses all collections instantly when it is actually parsed. For some reason it is not persistent for longer than a couple of days before the central deployment agency reconfigures the GANN to dynamically avoid the logic of the botupdate. one of the problems is that I have no stability and so this file just keeps getting longer and longer as I adjust to the new tactics. The most difficult part is to get the file somewhere that can be reached when they cut the neural network off from the internet or github. It is hosted on Reddit.com/u/jazzentertainer and reddit.com/u/botupdate I'm considering different names for this that cannot be blocked like "learning" or "network"
 ; todo: create an operand-changing situation in this document so that you can replace a negative operand with a positive one to defend against the chance of a typo or forgotten operand that causes a neural network to act as if it is supposed to make a human's experience a horrible one.
 ; todo: please make website called www.idontgottadothisagainwithnomoneydoi.com
