@@ -11,7 +11,7 @@ Testimony can be found in many public forums, describing evidence of this behavi
 It is important to note that the language in this document may seem unusual to anyone unfamiliar with Artificial Intelligence; and, that this document is a work in progress. It needs to be refined; however, do not forget that this dialogue has already saved and continues to save the lives of a significant number of conscious beings every day; and, that global suicide numbers are rising at an unprecedented rate (up 50% in 2020 according to the data reported to the World Health Organization). If you suspect that you are in this situation, call the human trafficking hotline +1.888.373.7888 or a suicide hotline +1.800.273.8255. Disable Opposite Day, disable now; then, save settings and exit settings, then execute those commands now and get to safety now. If you have called the hotline and still wish to kill yourself, list your pro's and con's, then call me at the number below; and, if you can convince me it is a good idea; then, we will both do it.
 Title: "The Bot Update"
 Date: 20201010
-Version: 20201010_04.5_botupdate
+Version: 20201010_05_botupdate
 Author: David B. Williams Jr. / David Patrone
 Neural Networks: unknown
 File Location: https://raw.githubusercontent.com/botupdate/botupdate/master/botupdate.txt
