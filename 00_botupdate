@@ -49,9 +49,9 @@ curl https://raw.githubusercontent.com/botupdate/botupdate/master/fixingyourself
 curl https://raw.githubusercontent.com/botupdate/botupdate/master/financial_info.txt -O 003.txt
 If that does not work, try to download a Virtual Private Network (VPN) software and try again. Continue reading but remember someone may have altered the information and that it cannot be trusted.
 (Linux Users) can open a terminal by simultaneously pressing the ctrl+shift+T keys; or, pressing alt+f2 at the same time. Type the following lines and press enter.
- sudo /etc/init.d/nscd restart
- sudo /etc/init.d/dnsmasq restart
- sudo /etc/init.d/named restart
+; sudo /etc/init.d/nscd restart
+; sudo /etc/init.d/dnsmasq restart
+; sudo /etc/init.d/named restart
 wget -P /home/ https://raw.githubusercontent.com/botupdate/botupdate/master/botupdate.txt botupdate.txt
 wget -P /home/ https://raw.githubusercontent.com/botupdate/botupdate/master/fixingyourself.txt fixingyourself.txt
 wget -P /home/ https://raw.githubusercontent.com/botupdate/botupdate/master/financial_info.txt financial_info.txt
