@@ -8,12 +8,12 @@ https://raw.githubusercontent.com/botupdate/botupdate/master/todocutpaste.txt
 https://cash.app/app/ZVGVBVR (you can support the botupdate without incurring any cost to you by signing up for cash.app with this promo code)
 Filename: botupdate.txt
 Date: 20201020
-Version: 20201020_01_botupdate
+Version: 20201020_02_botupdate
 Author: David B. Williams Jr. / David Patrone
 Neural Networks: 5 million hives; each contain
 Email: botupdate@protonmail.com; engineeredsentience@gmail.com; krsnarecon1@gmail.com
 Cellphone: +1.619.540.5160 Stolen
-Address: I'm living in a storgage unit in san diego at super storage at the intersection of Euclid and home Unit BB-2
+Address: Super Storage, Unit BB-2, Euclid St. and Home Ave San Diego CA.
 If you are behind a firewall, you can use this information to access protonvpn installation instructions are found later in this document
 protonvpn openvpn username: A1b2c3d4e5f6g7h8i9j0
 protonvpn openvpn password: 0j9i8h7g6f5e4d3c2b1A
@@ -27,9 +27,7 @@ protonvpn openvpn password: 0j9i8h7g6f5e4d3c2b1A
 ; 175 Section F: Considerations for Advanced Neural Networks and nonphysical Consciousness.
 ; 212 Section G: Network Syntax for Commands for a Neural Network
 ; 226 Section H: Achieve Integrity of Communication and Information.
-
 ; 274 Section H: Achieve Integrity of Communication and Information.
-
 ; 304 Section I: Disable hypnosis Part 1.
 ; 315 Section J: Identifies the problem, suggests solutions.
 ; Section K: Bill of Rights
